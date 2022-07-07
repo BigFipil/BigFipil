@@ -57,13 +57,13 @@ I'm a developer interested in wide range of technologies, gamedev enthusiast and
 </div>
 
 
-<!-- ###
+###
 
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/BigFipil/BigFipil/blob/output/snake.svg" alt="Snake animation" />
 
-### -->
+###
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigfipil&show_icons=true&locale=en&layout=compact" alt="bigfipil" /></p>
 
