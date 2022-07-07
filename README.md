@@ -2,7 +2,7 @@
 
 <h1 align="right">Hi there 👋, I'm Filip   </h1>
 
-<h2 align="left">🚀 About me:</h2>
+<h3 align="left">🚀 About me:</h3>
 I'm a developer interested in wide range of technologies, gamedev enthusiast and co-founder of the HomeBetween studio. I'm also 2D and 3D artist, fascinated designer and UI/UX creator for e-commerce and more. <br/><br/>
   
 - 👨‍🚀 24yo
