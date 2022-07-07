@@ -59,7 +59,9 @@ I'm a developer interested in wide range of technologies, gamedev enthusiast and
 
 ###
 
-<img href="https://github.com/BigFipil/BigFipil/blob/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github.com/BigFipil/BigFipil/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
