@@ -1,6 +1,19 @@
 ![alt text](https://github.com/BigFipil/BigFipil/blob/master/bcg.png?raw=true)
 
 <h1 align="center">Hi there 👋, I'm Filip</h1>
+<h3 align="left">About me:</h3>
+
+- 👨‍🚀 24yo
+- 🌍 Silesia, Poland
+- 🎓 Engineer: Automatics and Robotics 
+- 👨‍🎓 Master: Informatics (wip)
+- 💻 Windows or Linux
+- 🔭 I’m currently working on something cool 😎
+- 💬 Ask me anything, I'll be happy to help
+- ❤️ Astronomy, Travels, Books..
+
+
+
 <!--
 <h3 align="center">Developer / GameDeveloper / Designer / 3D&2D Artist / UI UX</h3>
 
